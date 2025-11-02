@@ -1,0 +1,32 @@
+
+.image-container{
+    list-style: none;
+    /* border: 1px solid red; */
+    width:100%;
+    /* border: 1px solid red; */
+    gap: 10px;
+    
+}
+.project-item-image{
+    height: 40%;
+    width: 100%;
+    background-size: cover;
+}
+
+.image-heading{
+    font-size: 16px;
+    width: 100%;
+}
+.description{
+    font-size: 13px;
+    width: 100%;
+}
+.main-project-container{
+    /* border: 1px solid green; */
+    width: 30%;
+ 
+    /* margin: 20px; */
+}
+.project-item-details-container{
+padding-left: 10px;
+}

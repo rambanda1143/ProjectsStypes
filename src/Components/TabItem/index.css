@@ -1,0 +1,21 @@
+.list-items{
+    list-style: none;
+}
+.list-item-container{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.active-tab-btn{
+   border-left: none;
+   border-right: none;
+   border-top: none;
+   background-color: transparent;
+   border-color: rgb(129, 129, 244);
+}
+.btn1{
+   border: none;
+   background-color: transparent;
+   
+}
